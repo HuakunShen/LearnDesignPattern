@@ -12,5 +12,9 @@ Problematic when adding new classes. May need to modify the entire codebase.
 Instead of crating the objects directly, use a "factory" to create objects in one place, 
 so that when a new class of object is added, you just need to modify one place.
 
+## Sample Code
+
+[Sample Code](../../src/creational_patterns/factory_method)
+
 ## Limitation
 
