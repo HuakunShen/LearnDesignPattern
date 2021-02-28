@@ -68,3 +68,4 @@ public class DemoSingleThread {
 ## Reference
 
 - [guru](https://refactoring.guru/design-patterns/singleton)
+
