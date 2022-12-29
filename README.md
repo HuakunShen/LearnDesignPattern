@@ -1,4 +1,4 @@
-# Learn Design Pattern
+# Design Pattern
 
 
 ## Resources
