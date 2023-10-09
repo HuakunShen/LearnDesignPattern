@@ -14,7 +14,7 @@ so that when a new class of object is added, you just need to modify one place.
 
 ## Sample Code
 
-[Sample Code](../../src/creational_patterns/factory_method)
+<!-- [Sample Code](../../src/creational_patterns/factory_method) -->
 
 ## Limitation
 
